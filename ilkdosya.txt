@@ -23,9 +23,11 @@ github için yazılan 1. dosya
 
 github için yazılan 2. dosya
 
+git merge confilt yiçin yazılıyor
+//* Halil Bey "1-100** satır
 
 
 
-
-
+3. gün halil branci ilk deneme
 Master Branch iiçin aynı satıra yazı yazıyorum
+
