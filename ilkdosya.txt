@@ -31,3 +31,5 @@ git merge confilt yiçin yazılıyor
 3. gün halil branci ilk deneme
 Master Branch iiçin aynı satıra yazı yazıyorum
 
+şimdide conflict için bi şeyler yzıyorum
+
